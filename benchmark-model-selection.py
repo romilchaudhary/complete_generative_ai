@@ -4,7 +4,8 @@ from embeddings import OllamaEmbeddings
 # Models to test
 MODELS = [
     "nomic-embed-text",
-    "mxbai-embed-large"
+    "mxbai-embed-large",
+    "phi3:mini"
 ]
 
 # Dataset
